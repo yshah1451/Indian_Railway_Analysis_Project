@@ -2,7 +2,7 @@
 # 📊 Railway Analysis Demo Use Case (Azure Data Engineering)
 
 ## 👨‍💻 Author
-**Yash Shah** – Senior Data Engineering Specialist
+**Yash Shah** – Data Engineering Specialist
 
 ---
 
